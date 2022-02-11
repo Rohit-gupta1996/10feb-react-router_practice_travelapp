@@ -20,7 +20,9 @@ const About = () => {
         </p>
       </div>
 
-      <h2>Our Team</h2>
+      <h2>
+        <ins>Our Team</ins>
+      </h2>
       <div class="row">
         <div class="column">
           <div class="card">
@@ -69,6 +71,41 @@ const About = () => {
               <p class="title">CFO</p>
               <p>Known for co-founding the online traveling website RRJVP.</p>
               <p>jatin@gmail.com</p>
+
+              <p>
+                <button class="button">Contact</button>
+              </p>
+            </div>
+          </div>
+        </div>
+        <div class="column">
+          <div class="card">
+            <img
+              src="https://media-exp1.licdn.com/dms/image/C5603AQEJPr-UO_ucTA/profile-displayphoto-shrink_400_400/0/1644559007689?e=1649894400&v=beta&t=YYyj30W_glk7MMCIsBgjnfmbK5ctCZ5np7pl1adZf0E"
+              alt="image1"
+            />
+            <div class="container">
+              <h2> Vipul Jaiswal </h2>
+              <p class="title">COO</p>
+              <p>Known for co-founding the online traveling website RRJVP.</p>
+              <p>Vipul@gmail.com</p>
+              <p>
+                <button class="button">Contact</button>
+              </p>
+            </div>
+          </div>
+        </div>
+        <div class="column">
+          <div class="card">
+            <img
+              src="https://media-exp1.licdn.com/dms/image/C4D03AQG1MTsCeDhG9Q/profile-displayphoto-shrink_800_800/0/1613591353921?e=1649894400&v=beta&t=7e1nnawOn8iPnA38QSGvZ4KGl8bASPiT_wKj48a6Ulo"
+              alt="image1"
+            />
+            <div class="container">
+              <h2>Pankaj Sah</h2>
+              <p class="title">COO</p>
+              <p>Known for co-founding the online traveling website RRJVP.</p>
+              <p>pankaj@gmail.com</p>
               <p>
                 <button class="button">Contact</button>
               </p>
